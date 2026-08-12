@@ -42,7 +42,7 @@ The dashboard also includes weather analysis cards that turn raw forecast data i
 
 Open `weather-intelligence-platform.html` in a browser.
 
-live demo:https://kuhemmanuel9-sudo.github.io/Weather-Intelligence-by-Emmanuel-Kuh/
+Live demo:https://kuhemmanuel9-sudo.github.io/Weather-Intelligence-by-Emmanuel-Kuh/
 
 No build step is required. The project is a single HTML file, so the HTML, CSS, and JavaScript are all included in one place.
 
